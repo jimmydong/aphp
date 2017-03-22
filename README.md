@@ -1,5 +1,9 @@
 # APHP - Docker Image of Apache + PHP
 
+aphp_2.3_20161212.tar is too big to upload because of github's term of file size.
+
+plz download it form server.
+
 ## Install
 
     Get all files
